@@ -2,6 +2,6 @@
 
 int main(int argc, char** argv) {
   printf("Hello World!\n");
-  /* Replace this line, printing your name */
+  printf("Timothy Boseck\n");
   return 0;
 }
